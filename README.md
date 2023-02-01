@@ -1,4 +1,8 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dean035&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Dean035&show_icons=true&theme=dark)
+
+[![](https://streak-stats.demolab.com/?user=Dean035&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Dean035/Dean035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
