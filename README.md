@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dean035&layout=compact&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=Dean035&show_icons=true&theme=dark)
 
